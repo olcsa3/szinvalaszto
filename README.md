@@ -1,0 +1,2 @@
+# szinvalaszto
+Szoftverprojektek feladat
